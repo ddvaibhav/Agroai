@@ -1,0 +1,9 @@
+{
+  "name": "AgroAI Pro",
+  "description": "AgroAI Pro is an AI-based agriculture platform for farmers to identify plant diseases, get expert guidance, and order medicine with home delivery. Designed for sustainable farming with multi-language support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
